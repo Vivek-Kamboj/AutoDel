@@ -1,4 +1,4 @@
-# AutoDel
+﻿# AutoDel
 ![App Preview](Images/Capture.PNG)
 
 <b>A desktop app for WINDOWS OS to delete thousands of files in the blink of an eye using `size parameter`<i>(except all the <u>`Read-only`</u> files)</b>
@@ -45,3 +45,5 @@
 <b><i> Liked it! Then don't forget to give it a star 🌟 </i></b>
 
 <b><i> Feel like contributing? Check the [Contribution guidelines](CONTRIBUTING.md)</i></b>
+It is the final step.
+thanku.
